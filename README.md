@@ -29,7 +29,8 @@ This project analyzes retail sales data to uncover trends in revenue, profit, an
 - Interactive Charts and KPIs
 
 ## Project Structure
-SuperStore Project.xlsx.
+SuperStore Project.xlsx.  
+
 README.md
 
 
